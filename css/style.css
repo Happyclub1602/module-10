@@ -358,6 +358,8 @@ html {
 
 .social-list-link a {
     display: block;
+    display: flex;
+    justify-content: center;
     width: 56px;
     height: 56px;
     background-repeat: no-repeat;
